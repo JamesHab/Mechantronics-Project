@@ -277,9 +277,9 @@ float readDistanceCM(int trigPin, int echoPin) {
   return us * 0.0343f * 0.5f; //Time to distance conversion
 }
 void leftForward(int pwm)   { digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW);  analogWrite(ENA, pwm); }
-  void leftBackward(int pwm)  { digitalWrite(IN1, LOW);  digitalWrite(IN2, HIGH); analogWrite(ENA, pwm); }
+ void leftBackward(int pwm)  { digitalWrite(IN1, LOW);  digitalWrite(IN2, HIGH); analogWrite(ENA, pwm); }
     void rightForward(int pwm)  { digitalWrite(IN3, HIGH); digitalWrite(IN4, LOW);  analogWrite(ENB, pwm); }
-      void rightBackward(int pwm) { digitalWrite(IN3, LOW);  digitalWrite(IN4, HIGH); analogWrite(ENB, pwm); }
+  void rightBackward(int pwm) { digitalWrite(IN3, LOW);  digitalWrite(IN4, HIGH); analogWrite(ENB, pwm); }
 void stopMotors()         
   { analogWrite(ENA, 0); analogWrite(ENB, 0); }
 void driveForward(int pwm) {
