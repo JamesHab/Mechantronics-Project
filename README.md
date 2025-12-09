@@ -13,8 +13,15 @@ Sensors + Bracket link: https://www.amazon.com/gp/product/B0D1MDP9V3/ref=ox_sc_r
 <img width="1051" height="620" alt="Screenshot 2025-12-08 at 10 23 16 PM" src="https://github.com/user-attachments/assets/94a07b84-27b5-4f83-bdb1-14e77a1bc63e" />
 
 Key: 
-Top motor: Left side splice
-Bottom motor: Right side splice
-Right Sensor: Right 45 degrees
-Middle Sensor: Straight
-Left Sensor: Left 45 degrees
+{Top motor: Left side splice}
+{Bottom motor: Right side splice}
+{Right Sensor: Right 45 degrees}
+{Middle Sensor: Straight}
+{Left Sensor: Left 45 degrees}
+
+
+https://img-cdn.heictojpg.com/jpg/7afad20d5ff9ae15/IMG_4087_3_%28copy%29.jpg
+
+https://img-cdn.heictojpg.com/jpg/7afad20d5ff9ae15/IMG_4089_%28copy%29.jpg
+
+https://img-cdn.heictojpg.com/jpg/7afad20d5ff9ae15/IMG_4088_%28copy%29.jpg
