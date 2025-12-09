@@ -19,5 +19,5 @@ Key:
 {Middle Sensor: Straight}
 {Left Sensor: Left 45 degrees}
 
-![IMG_4088](https://github.com/user-attachments/assets/06774758-f8ef-4b5b-989e-e975763e9f39)
+
 
