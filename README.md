@@ -10,5 +10,11 @@ Uno kit link: https://www.amazon.com/gp/product/B01D8KOZF4/ref=ox_sc_rp_title_rp
 
 Sensors + Bracket link: https://www.amazon.com/gp/product/B0D1MDP9V3/ref=ox_sc_rp_title_rp_2?smid=&psc=1&pf_rd_p=a4970ca5-d151-4edb-a206-3bc56f60ce74&pf_rd_r=YNS1HJ23GSKZEBR0GCFC&pd_rd_wg=hVMJK&pd_rd_i=B0D1MDP9V3&pd_rd_w=4stIM&content-id=amzn1.sym.a4970ca5-d151-4edb-a206-3bc56f60ce74&pd_rd_r=ba402348-1a30-4578-91af-9d49e0d238ab<img width="108" height="17" alt="image" src="https://github.com/user-attachments/assets/9859d706-d114-4d57-88a0-b7a01ee8f5f1" />
 
+<img width="1051" height="620" alt="Screenshot 2025-12-08 at 10 23 16 PM" src="https://github.com/user-attachments/assets/94a07b84-27b5-4f83-bdb1-14e77a1bc63e" />
 
-
+Key: 
+Top motor: Left side splice
+Bottom motor: Right side splice
+Right Sensor: Right 45 degrees
+Middle Sensor: Straight
+Left Sensor: Left 45 degrees
