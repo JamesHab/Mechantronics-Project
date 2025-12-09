@@ -21,6 +21,3 @@ Key:
 
 ![IMG_4088](https://github.com/user-attachments/assets/06774758-f8ef-4b5b-989e-e975763e9f39)
 
-![IMG_4089(1)](https://github.com/user-attachments/assets/6a2a6711-fae0-4a26-9e7d-46e2168edb84)
-
-![IMG_4089](https://github.com/user-attachments/assets/43ec6875-02a2-4656-85b3-7227cebe156c)
